@@ -112,6 +112,10 @@ body {
 }
 .header .li .a {
 }
+.logo{
+    width: 85px;
+    margin-left: 25px;
+}
 
 .main {
     margin: 1em 0;
